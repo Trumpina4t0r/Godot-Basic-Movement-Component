@@ -1,0 +1,1 @@
+Drag and Drop all 3 .gd files into your scrip folder in your project create 3 Node3D attach them directly to your root Node normally the Character3D and attatch one script to each Node assign the values in the property window make sure the input name are the same in the script and the project and everything should work controller support included
